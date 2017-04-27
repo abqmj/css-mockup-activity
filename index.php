@@ -7,7 +7,7 @@
 		<!-- custom CSS stylesheet -->
 		<link rel="stylesheet" href="css/style.css" type="text/css" />
 
-		<title>Dylan McDonald AKA @deepdivedylan</title>
+		<title>Dylan McDonald AKA @deepdivedylan on twitter and github</title>
 	</head>
 	<body class="sfooter">
 		<div class="sfooter-content">
