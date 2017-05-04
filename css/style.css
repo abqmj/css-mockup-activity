@@ -53,4 +53,6 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
-nothing i do works css sucks
+body {
+	font-family: sans-serif;
+}
