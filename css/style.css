@@ -53,6 +53,23 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+.headercontainer {
+	background-color: darkorange;
+	color: white;
+	font-family: sans-serif;
+	padding: 10px;
+
+}
+
+header .container h1 {
+	float: left;
+	font-family: sans-serif;
+}
+
+header .container em {
+	font-family: sans-serif;
+	display: inline-block;
+}
 .container {
 	background: #ff4d00;
 	display: inline;
@@ -60,7 +77,7 @@ body { width: 100%;}
 
 h1 {
 	color: white;
-	em: 5em;
+	em: 10em;
 }
 
 h2 {
