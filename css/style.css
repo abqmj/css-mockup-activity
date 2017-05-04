@@ -56,3 +56,13 @@ body { width: 100%;}
 body {
 	font-family: sans-serif;
 }
+header {
+	background-color: darkorange;
+	color: #ffffff;
+	padding: 2rem 0;
+}
+header h1 {
+	margin: 0 3rem 0 0;
+	font-size: 4.5rem;
+	display: inline-block;
+}
