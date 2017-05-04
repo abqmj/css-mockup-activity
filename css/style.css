@@ -53,46 +53,4 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
-.headercontainer {
-	background-color: darkorange;
-	color: white;
-	font-family: sans-serif;
-	padding: 10px;
-
-}
-
-header .container h1 {
-	float: left;
-	font-family: sans-serif;
-}
-
-header .container em {
-	font-family: sans-serif;
-	display: inline-block;
-}
-.container {
-	background: #ff4d00;
-	display: inline;
-}
-
-h1 {
-	color: white;
-	em: 10em;
-}
-
-h2 {
-	color: #ff4d00;
-}
-
-.instructions {
-	border-color: #8cff0a;
-	background: white;
-}
-
-.pull-left {
-	float: left;
-}
-
-.pull-right {
-	float: right;
-}
+nothing i do works css sucks
