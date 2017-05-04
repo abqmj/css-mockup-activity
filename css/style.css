@@ -54,5 +54,28 @@ body { width: 100%;}
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
 .container {
-	background-color: #ff9900;
+	background: #ff4d00;
+	display: inline;
+}
+
+h1 {
+	color: white;
+	em: 5em;
+}
+
+h2 {
+	color: #ff4d00;
+}
+
+.instructions {
+	border-color: #8cff0a;
+	background: white;
+}
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
 }
