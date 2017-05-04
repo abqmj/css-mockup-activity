@@ -53,9 +53,11 @@ body { width: 100%;}
 /*****************************************************
 * ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 ******************************************************/
+/* global styles */
 body {
 	font-family: sans-serif;
 }
+/*header styles*/
 header {
 	background-color: darkorange;
 	color: #ffffff;
@@ -66,3 +68,21 @@ header h1 {
 	font-size: 4.5rem;
 	display: inline-block;
 }
+.instructions {
+	border: 3px solid darkorange;
+	padding: 3rem;
+	color: darkorange;
+	font-weight: bold;
+	line-height: 1.5rem;
+}
+.instructions img {
+	width: 250px;
+	border: 3px solid lightgray;
+}
+.pull-right {
+	float: right;
+}
+.pull-left {
+	float: left;
+}
+
